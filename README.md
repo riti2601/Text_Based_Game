@@ -13,3 +13,4 @@ Health Potions: The player starts with a limited number of health potions, which
 <br>
 Exit Option: Players can choose to exit the dungeon at any point during the game.
 <br>
+The game is console based
