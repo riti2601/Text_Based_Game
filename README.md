@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 # Text_Based_Game
 Author - Ritisha Pande
 <br>
 <<<<<<< HEAD
+=======
+>>>>>>> 730f48fa7f6e69dff2a60de9bfaac8e8adc575c6
 # Text-Based Dungeon Game
 
 Welcome to the Text-Based Dungeon Game! This is a simple console-based adventure game where players navigate through a dungeon, encountering enemies, fighting them, and trying to survive.
@@ -42,6 +45,7 @@ Contributions to the Text-Based Dungeon Game are welcome! If you'd like to contr
 3. Test your changes thoroughly to ensure they work as expected.
 4. Commit your changes and push them to your forked repository.
 5. Submit a pull request detailing the changes you've made and why they're beneficial.
+<<<<<<< HEAD
 
 ## License
 
@@ -61,3 +65,5 @@ Exit Option: Players can choose to exit the dungeon at any point during the game
 <br>
 The game is console based
 >>>>>>> d280fb7ef1ac5f3393afeacf04fb48aae6886b6a
+=======
+>>>>>>> 730f48fa7f6e69dff2a60de9bfaac8e8adc575c6
