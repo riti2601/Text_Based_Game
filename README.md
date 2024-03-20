@@ -38,7 +38,3 @@ Contributions to the Text-Based Dungeon Game are welcome! If you'd like to contr
 3. Test your changes thoroughly to ensure they work as expected.
 4. Commit your changes and push them to your forked repository.
 5. Submit a pull request detailing the changes you've made and why they're beneficial.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE), which means you're free to use, modify, and distribute the code for personal or commercial purposes.
