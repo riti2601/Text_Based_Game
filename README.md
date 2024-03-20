@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-# Text_Based_Game
-Author - Ritisha Pande
-<br>
-<<<<<<< HEAD
-=======
->>>>>>> 730f48fa7f6e69dff2a60de9bfaac8e8adc575c6
 # Text-Based Dungeon Game
 
 Welcome to the Text-Based Dungeon Game! This is a simple console-based adventure game where players navigate through a dungeon, encountering enemies, fighting them, and trying to survive.
@@ -45,25 +38,3 @@ Contributions to the Text-Based Dungeon Game are welcome! If you'd like to contr
 3. Test your changes thoroughly to ensure they work as expected.
 4. Commit your changes and push them to your forked repository.
 5. Submit a pull request detailing the changes you've made and why they're beneficial.
-<<<<<<< HEAD
-
-## License
-
-This project is licensed under the [MIT License](LICENSE), which means you're free to use, modify, and distribute the code for personal or commercial purposes.
-=======
-The player navigates through encounters with various enemies, such as skeletons, zombies, warriors, assassins, knights, and vampires. The game features turn-based combat where the player can attack enemies, use health potions to restore health, or attempt to flee.
-<br>
-Game Loop: The game runs within a loop until the player decides to exit or is defeated.
-<br>
-Random Encounters: Enemies are randomly selected from a predefined list, each with its own health and attack damage.
-<br>
-Combat Mechanics: Players can choose to attack enemies, which results in both the player and enemy dealing damage to each other based on random factors.
-<br>
-Health Potions: The player starts with a limited number of health potions, which can be consumed to restore health during battles.
-<br>
-Exit Option: Players can choose to exit the dungeon at any point during the game.
-<br>
-The game is console based
->>>>>>> d280fb7ef1ac5f3393afeacf04fb48aae6886b6a
-=======
->>>>>>> 730f48fa7f6e69dff2a60de9bfaac8e8adc575c6
