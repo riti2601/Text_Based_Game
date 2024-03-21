@@ -55,7 +55,7 @@ public class main {
                     System.out.println("\t> You recieve "+damageTaken+" in retaliation.");
 
                     if(health < 1){
-                        System.out.println("\t> You have taken too much damage. You are too weak to go on!");
+                        System.out.println("\t> You have taken too much damage. You are too weak to go on! You must work on your skills.");
                         break;
                     }
 
